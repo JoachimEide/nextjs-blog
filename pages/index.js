@@ -21,7 +21,7 @@ export default function Home ({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi, I'm Joachim! I've just started my internship at Lifekeys.
+        <p>Hi, I'm Joachim Woll Eide! I've just started my internship at Lifekeys.
           You can contact me on <a href="https://www.linkedin.com/in/joachimeide/" target="_blank" rel="noreffrer noopener">
           linkedIn</a>.
         </p>
